@@ -1,0 +1,123 @@
+
+.nav-link{
+    color: black !important;
+}
+.d-flex{
+    padding: 3px;
+    text-decoration: none;
+    
+}
+.fa-address-book{
+    padding:  3px;
+}
+
+.fa-cart-shopping{
+    padding: 3px;
+}
+
+h3{
+    text-align: center;
+  font-family: 'poppins';
+    font-size: 50px;
+    margin-top: 30px;
+    
+    
+}
+h2{
+    color: white;
+}
+
+
+p{
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    margin-top: -10px;
+}
+.container{
+
+    margin-top: 70px;
+}
+
+
+
+.fa-phone-volume{
+
+    font-size: 15px;
+    padding-left: 30px;
+    color: white;
+
+}
+.fa-message{
+
+    font-size: 15px;
+    
+    margin-top: 40px;
+    
+    padding-left: 30px;
+    color: white;
+}
+
+.fa-location-pin{
+    font-size: 15px;
+    margin-top: 40px;
+    
+    padding-left: 30px;
+    color: white;
+
+
+}
+.number{
+  
+  color: white;
+ padding-left: 82px;
+ margin-top: -22px;
+}
+.email{
+    color: white;
+    padding-left: 82px;
+    margin-top: -22px;
+ 
+
+}
+
+.text-1{
+    color: white;
+    padding-left: 82px;
+    margin-top: -22px;
+
+}
+.text{
+    color: white;
+    padding-left: 82px;
+    margin-top: -18px;
+}
+
+/* .socialIcons{
+  width: 100%;  
+} */
+.fa-square-twitter{
+    font-size: 15px;
+    padding-left: 28px;
+    color: white;
+    cursor: pointer;
+
+}
+
+
+.fa-instagram{
+    
+    font-size: 15px;
+    padding-left: 16px;
+    color: white;
+ cursor: pointer;
+}
+
+.fa-gamepad{
+    padding-left: 20px;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+    
+   
+}
