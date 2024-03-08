@@ -17,6 +17,7 @@ include("Form/index.php");
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+   <link rel = "stylesheet" href = "@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900'">
     <title>Contact Form</title>
 </head>
 
@@ -39,8 +40,6 @@ if(isset($_SESSION['status']))
 
 unset($_SESSION['status']);
 }
-
-
 
 ?>
     <!--Container containing navbar-->
@@ -116,7 +115,7 @@ unset($_SESSION['status']);
                     style="text-align: left; margin-top: 20px; margin-left: 25px;  font-family: 'Poppins';">
                     Contact&nbsp;Information</h2>
 
-                <p class="sub-head" style="text-align: left; color: white; margin-top: 10px; margin-left: 25px;">
+                <p class="sub-head" style="text-align: left; color: #C9C9C9; margin-top: 10px; margin-left: 25px; font-family:'poppins-Regular'; font-size:18px">
                     <nobr>say something to start a live chat!</nobr>
                 </p>
                 <br>
